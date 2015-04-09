@@ -1,0 +1,1400 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"audio",
+				"audio_required_single"
+			],
+			[
+				"nav",
+				"navgray"
+			],
+			[
+				"log",
+				"log_message"
+			],
+			[
+				"gi",
+				"giborder"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"rese",
+				"reset_key"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"rque",
+				"request_array"
+			],
+			[
+				"reset",
+				"reset_password"
+			],
+			[
+				"new",
+				"newPassConfirm"
+			],
+			[
+				"valid",
+				"validRequest"
+			],
+			[
+				"vali",
+				"validRequest"
+			],
+			[
+				"time",
+				"time_requested"
+			],
+			[
+				"reque",
+				"request_array"
+			],
+			[
+				"deco",
+				"decoded_array"
+			],
+			[
+				"dec",
+				"decoded_array"
+			],
+			[
+				"decod",
+				"decoded_array"
+			],
+			[
+				"request",
+				"requestSent"
+			],
+			[
+				"with",
+				"with_email"
+			],
+			[
+				"user",
+				"userFound"
+			],
+			[
+				"email",
+				"emailSent"
+			],
+			[
+				"__",
+				"__CLASS__"
+			],
+			[
+				"ema",
+				"emailSent"
+			],
+			[
+				"forgot",
+				"forgot_password"
+			],
+			[
+				"R",
+				"recaptchaResponse"
+			],
+			[
+				"rec",
+				"recaptchaResponse"
+			],
+			[
+				"slide",
+				"slide_body"
+			],
+			[
+				"num",
+				"nums"
+			],
+			[
+				"a",
+				"absolute-position"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"liste",
+				"listenForKeyboard"
+			],
+			[
+				"ke",
+				"keyCode"
+			],
+			[
+				"next",
+				"nextQuestion"
+			],
+			[
+				"completed",
+				"completed-check"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"this",
+				"thisQuestion"
+			],
+			[
+				"secon",
+				"secondPiece"
+			],
+			[
+				"doma",
+				"domainBits"
+			],
+			[
+				"dom",
+				"domain_prefix"
+			],
+			[
+				"redire",
+				"redirect_to_subdomain"
+			],
+			[
+				"redi",
+				"redirect_to_subdomain"
+			],
+			[
+				"parent",
+				"parent_id"
+			],
+			[
+				"absolute",
+				"absolute-position"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"borde",
+				"border-top"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"dis",
+				"display_errors"
+			],
+			[
+				"case",
+				"casestudies"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"eleme",
+				"elements_to_show"
+			],
+			[
+				"ele",
+				"elements_to_show"
+			],
+			[
+				"i",
+				"iconbg"
+			],
+			[
+				"icon",
+				"iconbg"
+			],
+			[
+				"resp",
+				"respond-width"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"first",
+				"first-of-type"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"list",
+				"list_HTML"
+			],
+			[
+				"last",
+				"last-of-type"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"str",
+				"strippedText"
+			],
+			[
+				"news",
+				"news_q"
+			],
+			[
+				"page",
+				"page-container"
+			],
+			[
+				"region",
+				"region_fwd"
+			],
+			[
+				"robot",
+				"roboto-condensed-bold"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"sni",
+				"sniff_subdomain"
+			],
+			[
+				"site",
+				"site_url"
+			],
+			[
+				"URL",
+				"URLbits"
+			],
+			[
+				"domain",
+				"domain_prefix"
+			],
+			[
+				"re",
+				"region"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"val",
+				"validResume"
+			],
+			[
+				"uplo",
+				"uploadedType"
+			],
+			[
+				"resume",
+				"resume_upload"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"resource",
+				"resource_category_id"
+			],
+			[
+				"prev",
+				"prevCase"
+			],
+			[
+				"asse",
+				"assets"
+			],
+			[
+				"ca",
+				"caseCount"
+			],
+			[
+				"extension",
+				"extensionless"
+			],
+			[
+				"ass",
+				"assets_server_path"
+			],
+			[
+				"assets",
+				"assets_server_path"
+			],
+			[
+				"pro",
+				"processExtensions"
+			],
+			[
+				"on_aft",
+				"on_after_save"
+			],
+			[
+				"cas",
+				"casestudies"
+			],
+			[
+				"header_",
+				"header_image"
+			],
+			[
+				"header",
+				"header_img"
+			],
+			[
+				"cases",
+				"Casestudy"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mission",
+				"mission-text"
+			],
+			[
+				"vertic",
+				"vertical-align"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"fuel",
+				"fuel_set_var"
+			],
+			[
+				"scroll",
+				"scroll-down-hdr"
+			],
+			[
+				"elment",
+				"elementID"
+			],
+			[
+				"number",
+				"numberscroll"
+			],
+			[
+				"element",
+				"elementID"
+			],
+			[
+				"rev",
+				"revIndex"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"head",
+				"header-height"
+			],
+			[
+				"autho",
+				"authorInfo"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"backgro",
+				"background-position"
+			],
+			[
+				"robo",
+				"roboto-condensed-bold-uc"
+			],
+			[
+				"cli",
+				"clickedOnOpenOne"
+			],
+			[
+				"all",
+				"all_buttons"
+			],
+			[
+				"cate",
+				"categoryAttr"
+			],
+			[
+				"faq",
+				"faq_sections"
+			],
+			[
+				"fa",
+				"faq_buttons"
+			],
+			[
+				"n",
+				"newSection"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"abso",
+				"absolute-position"
+			],
+			[
+				"handler",
+				"handler_not"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"show",
+				"showCount"
+			],
+			[
+				"kee",
+				"keep_watch"
+			],
+			[
+				"path",
+				"path_sel"
+			],
+			[
+				"center",
+				"center-vertical"
+			],
+			[
+				"position",
+				"absolute-position"
+			],
+			[
+				"rob",
+				"roboto-condensed-bold-uc"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tinted-background-image.scss",
+			"settings":
+			{
+				"buffer_size": 946,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "center-vertical.scss",
+			"settings":
+			{
+				"buffer_size": 481,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "iconfont-reset.scss",
+			"settings":
+			{
+				"buffer_size": 413,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "aspect-ratio.scss",
+			"settings":
+			{
+				"buffer_size": 570,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "absolute-position.scss",
+			"settings":
+			{
+				"buffer_size": 541,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"list packages",
+				"Package Control: List Packages"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet Ci",
+				"Snippet: ci_403"
+			],
+			[
+				"git",
+				"Package Control: Add Repository Channel"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"sf",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sft",
+				"SFTP: Show Panel"
+			],
+			[
+				"s",
+				"SFTP: Show Panel"
+			],
+			[
+				"ch",
+				"Change tracker: Highlight changes"
+			],
+			[
+				"cha",
+				"Change tracker: Highlight changes"
+			],
+			[
+				"bra",
+				"Bracket Highlighter: Swap Brackets"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Page",
+				"Package Control: Install Package"
+			],
+			[
+				"Paca",
+				"Package Control: Discover Packages"
+			],
+			[
+				"PAc",
+				"Package Control: Disable Package"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"snipp",
+				"Snippet: Start Docblock"
+			],
+			[
+				"woe",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"wore",
+				"Word Wrap: Toggle"
+			],
+			[
+				"func",
+				"Snippet: Function"
+			],
+			[
+				"clas",
+				"Snippet: Class"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 115.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": true,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/0864D674-3E3C-4450-AE10-55816DE0B204/screen.css",
+		"/Users/jeremy/sass-cocktails/mixins.scss",
+		"/Users/jeremy/sass-cocktails/aspect-ratio.scss",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/F106AC9C-B51B-4979-843C-025AD9D454FD/screen.css",
+		"/Users/jeremy/sass-cocktails/absolute-position.scss",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/B9FF01DE-2528-4DF4-99B2-E04520670794/slide_mortgage_checklist.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/2A24DA8D-CF2A-45A9-A360-885D9FFAF931/slide_house_hunting.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/0AC6839D-9B47-4B98-957B-0666F05D03AA/slide_purchasing_process.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/247170D5-E487-46BC-93EF-D550F4B5CBB8/slide_purchase_and_sales.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/92E83843-5F5C-4C25-9D5A-9EA7D38A0EB9/slide_amount_of_offer.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/ADFD004A-A371-40EE-B29A-781939047164/slide_before_an_offer.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/161495C2-A9D0-4537-9D95-9C34DF53C3F0/slide_negotiating.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/5513BBD8-CAF7-46DA-B70F-4437F83AAF93/slide_home_inspection_1.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/C147813E-BCE9-4223-88B2-DEEB036D2618/slide_home_inspection_2.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/9E1D4AA1-4495-4144-8716-D51A69E31E8F/slide_home_inspection_3.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/24C83330-8F0B-404A-A941-08B814AFB57D/slide_finding_real_estate_professional_2.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/2AC34EA6-B2B6-4E0D-B970-4261786C924A/slide_buyers_agent.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/EBEC168C-2F44-4736-9ECE-11A6B86FA25F/slide_finding_real_estate_professional_1.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/06151062-174D-42D0-8E8E-FCAA2BE9C856/slide_lead_paint.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/003FD3DE-4E9C-4C03-A9A9-7A3232875D66/slide_type_of_housing.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/32B6625E-4DAB-46CE-A35E-3395280CB88C/slide_best_neighborhood.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/BBCC1AE2-9FCA-43DC-9423-7721A343A6B8/slide_finding_the_right_home.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/157AD200-70C6-494A-90B0-6F3954E68173/slide_purchasing_your_home.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/28B0A920-C526-4EF4-AC5A-DC31947DD1D6/slide_fair_housing.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/F039AF1E-9CEA-4F69-976B-57C3E66E11F8/slide_types_of_lenders.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/EA5D1D7D-DCE9-4FEC-B18D-9C86328DE469/slide_selection_process.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/EEC2C445-FCD2-4B66-8DE8-73E7EF115744/slide_predatory_lending.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/AABDB46F-3ED9-4B56-B41D-8077C061CF42/slide_avoid_predatory_lending.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/E340D3A3-DF69-4435-87EE-335FA9C1C6E0/slide_types_of_loans.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/DDB69BA1-655C-4C3F-9795-51589ED4FD27/slide_government_insured_loans.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/3806E8C7-183D-4573-BD8E-097948B31034/slide_homebuyer_tax_credit.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/6AE3CDD6-1933-4EEC-B16F-DE6D0942F7B6/slide_understanding_insurance_products.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/FFD33929-B26B-4742-AF59-ABD650793F52/slide_financing.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/1701A204-5C55-4F5B-9933-35AB42EE55B3/slide_process_1.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/7FF8F0CE-8D6C-4B70-A61E-4EC939ED111E/slide_process_2.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/A4D6402C-EA63-4BFA-90A6-B4F94DBE40E3/slide_process_3.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/5F94ADCB-2B42-4B87-90AE-E3D40EEA2EFB/slide_other_requirements.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/3DE654E3-50FA-41B3-B6ED-52BC2AF8961E/slide_saving.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/A0C0B1A3-AE55-4FF1-A15D-C74761DB7CAA/slide_afford.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/B7E93822-FA36-4832-B7EC-9B7C416454D0/slide_purchasing_review.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/41C58E54-A7BC-4587-904C-102034DC8725/slide_purchasing_process_review.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/7A3C34A3-57DA-422D-A92B-828BBE123376/slide_introduction_review.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/A536DD48-E308-489F-B863-300F84FCF609/slide_hcv_review.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/06D28A8E-4B76-4360-9202-0DFB114F5AC2/slide_financing_review.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/81890CFB-017C-40A1-8548-3BB4AFC83D14/slide_closing_review.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/8C5297F8-7FE9-4128-9C96-51AC8E5A70A3/slide_review_budget_credit.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/0415DCBC-B96B-4F76-86FB-D947460F6805/slide_advantages_challenges.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/3E24DF8F-8C2A-472E-8D0F-49CBDD946C84/slide_homeownership_costs.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/DE81A4D6-7547-43F6-9BFF-9724E1FE0181/slide_ratios.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/1CACCA9E-874D-4790-837D-7D57C9D9BDBF/slide_spending_guidelines.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/48FD1C2F-E193-4308-8FD6-86001720565A/slide_afford.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/FEE5B4DA-E9B9-46ED-BC84-93FB8790A0CF/slide_amount_of_offer.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/E16FB8EA-E47D-48A9-9F64-41FCD3DB3782/slide_avoid_predatory_lending.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/BEB53F41-1C77-45D8-B145-F3870368147A/slide_becoming_a_homeowner.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/7186766A-F32F-42D8-B696-21258CED0B1C/slide_before_an_offer.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/2FC8E422-5283-4813-B16A-4F6E50BDE40D/slide_best_neighborhood.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/39C485AA-B955-43D7-9AD2-7A101C1D5C50/slide_buyers_agent.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/59756F3B-2DEE-4A34-9A62-297615E69286/slide_closing_agent.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/E579CD2D-2BDA-4F8F-A3C7-3D87A2C06C22/slide_closing_review.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/32E7288B-F0CD-4986-8204-CB04B47794B5/base.js",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/73FB0180-E2B6-43E7-A0B5-E147F339A1F5/slide_advantages_challenges.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/771BF0D6-18DF-4227-8A62-0582F934E7A9/slide_four_c.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/23F1E49D-D4B4-47C8-8C97-EA5EE8409216/slide_closing.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/35DFDBE4-9FDC-411D-840F-64C1D3C7CB53/slide_congratulations.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/3DD4CDAE-EE10-438D-89A9-A264C6724CA5/slide_eligibility_requirements.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/2C44C8D6-72DD-47B9-AB47-30FBE1DB6644/slide_best_neighborhood.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/4129F8F7-6C62-479B-95B8-2F45D6B8F8DE/index.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/5321244E-A629-4FAD-B8A0-7EC31EA14537/homeownership.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/01723D7A-0DA3-472F-AC3A-D9FC086A7147/hbtc.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/211C9421-D58A-4445-81AB-7994B7EF82A1/styles.scss",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/82BBF114-AB17-449B-B279-F83E47C4A44D/_colors.scss",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/1754D8F8-846F-4409-88DC-40D0CD97BF40/base.js",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/AA1FFDFD-FCD6-4FF2-945D-0557A514BF16/base.js",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/0ABCC102-B7BB-4A38-A97C-A78F422738C3/index.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/B641FBFB-A1DE-4B43-875A-C2094EFE9949/index.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/12D7AB8F-D1D1-4632-AC62-9E95B85E2A88/index.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/9C12E6B4-EADA-4FF8-8AED-B23B92C9B20B/index.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/FD5645D0-1F1E-49FE-B34B-53413BC0A807/screen.scss",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/24713F4A-166D-4875-AA59-E04C331E58BF/account.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/24EA0D8E-2341-4C34-AD97-DC15CB828CA2/texashca_lang.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/D3937968-5EF4-4253-A155-AEFD570AC9B5/header.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/556A4465-C4FB-4CC6-A90C-A13EB5CDB425/_common.scss",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/E81A0C1F-7963-4C30-AFB4-CD1D3D976A55/screen.scss",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/D29FE9EE-9B62-42EC-A54C-F96ABB90021C/footer.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/B3895523-B4EA-4BB5-AD4B-1C20D023A5E2/texashca_lang.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/9D426D69-F38D-4B3C-A821-D2982852D8D4/home.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/A213059E-51AF-4378-8CE0-C75E5F2618F2/config.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/39058EE8-52C3-4874-A7D9-1BC6C67C6376/config_wedu.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/6574E657-312B-4E92-8F17-E388C9B42943/config_wedu.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/FBF4AFA8-11F5-4584-8B18-2C5E1999E9FD/Session.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/375F25C3-4E8F-4858-9696-14E42CB94CE2/testquestions_model.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/225AD7C0-9FF0-47C0-92F9-48EE6B6DD899/tests_model.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/741F3368-FE64-4CCF-85E1-BD61CB3B1E75/test.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/74BE5C8E-6911-4198-BF4B-7F119BD54965/home.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/45703B3B-6CDE-42E1-9B6F-B4B83E60689F/Session.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/4F14B592-9106-4707-A7EA-AD94AA647D05/autoload.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/D8E4A499-8B43-4BD2-A49D-9E989D25F901/Session.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/8D4566FD-2FAD-4DC7-B5D0-E9905F68F69B/autoload.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/C84B1776-1F7D-44C6-B345-41241E9B6832/config.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/B49ADE98-23B5-44D2-9598-7155A1D38817/config_wedu.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/39685EBF-7398-4B29-9285-8ECD1434180C/Session.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/577ADD40-8663-4381-B942-FEF4A9CFD0BF/_colors.scss",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/A9DA473E-8DF6-4D75-9104-276CAF5EF97C/_mixins.scss",
+		"/Users/jeremy/ep-kenpo-karate/package.json",
+		"/Users/jeremy/Desktop/Dev Toolbox/jquery.placeholderfb.js",
+		"/Users/jeremy/Desktop/Dev Toolbox/jquery.socialshare.js",
+		"/Users/jeremy/jquery-spoiler-text/package.json",
+		"/Users/jeremy/jquery-spoiler-text/Gruntfile.js",
+		"/Users/jeremy/ep-kenpo-karate/Gruntfile.js",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/E05887BF-E66A-4E81-AB5C-00B935EB912C/inc_userinfo.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/3B69BB64-A87F-4649-84B8-45BAB4EFB30E/ptpsamples.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/4E2BFD10-3152-4981-A9B6-FE331BBAEB91/about_ptp.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/41F6CECE-DAC3-43A6-B639-906E9C04C5A5/default.css.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/D794CC8E-1102-4FED-A44C-43D9B3515487/user_info.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/E7DE0DF7-E010-4F98-B913-02484940D49D/texashca_lang.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/61DD086D-EFF6-4E81-9E6E-38414DC9AC7B/texashca_lang.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/2DCBCA1B-AFD4-4BDD-888B-9F29FA0C315F/texashca_lang.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/85F43527-28D9-405E-B163-C7E332AC65F1/my_helper.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/B82180DD-B516-48BA-86F3-FC2975B63E0E/account.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/9D83DE20-0016-430B-963C-BC99A1AE7B96/reset_password.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/6C2FED01-7B97-449F-96DA-5F194B5A1739/reset_password.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/2A8D4F4B-99A4-40BC-BA7C-826CE733BA7A/reset_password.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/1A125A62-D796-48F7-85F4-8B6EC1B10FA9/config.php",
+		"/Users/jeremy/ep-kenpo-karate/data/techniques.json",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/AD041A76-55E3-4CA2-963D-AC679CF0FB2D/account.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/90C72898-E40E-4683-B01C-A424B2B10C9E/account.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/FD73F040-9DB0-459E-99F0-F461C59FF828/account.php",
+		"/Users/jeremy/Library/Caches/Cleanup At Startup/Transmit/C3A6780F-229A-4DCF-990A-4373D4DE1EDB/download_sidebar.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"transform:",
+			"tint",
+			"tinted-bg",
+			"---",
+			"closing",
+			"Image highlighting the",
+			"/inc/homeownership/images",
+			"inc/homeownership/images",
+			"'/assets/images/homeownership/house",
+			"'/assets/images/homeownership/house-",
+			"inc/homeownership/images",
+			"images/",
+			"/inc/homeownership/images/",
+			"inc/",
+			"yellow",
+			"INFO",
+			"12px",
+			"8px",
+			"10px",
+			"40px",
+			"45px",
+			"50px",
+			"10em",
+			"15",
+			"10em",
+			"0.5",
+			"25%, 75% { transform: scale(1) }",
+			"0%, 100%   { transform: scale(1); }",
+			"1.5",
+			"0.5",
+			"animation",
+			" 2s",
+			"@",
+			"puncher",
+			" /* ",
+			"NAME-YOUR-ANIMATION 5",
+			"after",
+			"plugin",
+			"Plugin",
+			"plugin",
+			"Plugin",
+			"placeholderfb",
+			"5a81c2",
+			"0fa3de",
+			"0fa3de\n0fa3de\n0fa3de\n0fa3de\n0fa3de\n0fa3de\n0fa3de\n0fa3de\n0fa3de\n0fa3de\n0fa3de\n0fa3de\n0fa3de\n0fa3de\n0fa3de\n0fa3de\n0fa3de",
+			"0fa3de",
+			"<?",
+			"0fa3de",
+			"button",
+			"forgot_error",
+			"\");",
+			"form_forgot",
+			"placeholder=\"<?= lang('form_forgotpass_email_placeholder') ?>\"",
+			"email",
+			"type=\"email\"",
+			"userFound",
+			"user",
+			"images/build",
+			"images",
+			".complete",
+			"nhhfa",
+			"hampshire",
+			"slide_content",
+			"#SellersTable ",
+			"player",
+			"805-3648",
+			".content",
+			".header",
+			"//cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/",
+			"Annual Report",
+			"position: absolute",
+			"absolute",
+			"=\"#\"",
+			"			",
+			"Homebuyer Tax Credit",
+			"HBTC",
+			"Homebuyer Tax Credit",
+			"ul",
+			"			",
+			"* ",
+			"shadow",
+			"30",
+			"/inc/hbtc/media/",
+			"expired",
+			"nextQue",
+			"blue-emu",
+			"blue-emu/EMUT-0115H Grilling 15",
+			"answer",
+			"Traffic Report Sponsored by Smilasan 2-12 similasan",
+			"'>\n					<b>",
+			"/inc/homeownership/images",
+			"expired",
+			"2em",
+			"i_home_talk",
+			"'.",
+			"tooltip",
+			"tool",
+			"\">",
+			" rel=\"",
+			"\">",
+			"class=\"\"",
+			"img",
+			"redirect(",
+			"redirect",
+			"icon",
+			"/inc/homeownership/images",
+			"-[",
+			".progress_bar ",
+			".house ",
+			".btn",
+			"numberscroll",
+			"<ul",
+			"\n						</span>",
+			"fitfive",
+			".column:",
+			"#checklist ",
+			"font-family",
+			".icon",
+			"white",
+			"td",
+			"td.",
+			"color(conclusion",
+			"/images/",
+			"white",
+			".pager .icon",
+			".arrow_box:",
+			"#footer",
+			"#content"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"NEWS!!!!",
+			");\n",
+			")  ",
+			"www.nhcdfa.org",
+			",",
+			"url(/calendar/templates/default/images/",
+			"url(/calendar/images/",
+			"\\n",
+			"30",
+			"ssh 10.1.1.20 \"cat /cygdrive/c/inetpub/wwwroot/\\1\" | diff - /cygdrive/c/inetpub/wwwroot/\\1\\n",
+			"ssh 10.1.1.20 \"cat /cygdrive/c/inetpub/wwwroot/\\1\" | diff - /cygdrive/c/inetpub/wwwroot/\\1",
+			" ",
+			"&mdash;",
+			"",
+			"'",
+			"&mdash;",
+			"",
+			"&mdash;",
+			"wget http://testdrive.fidelity.com/nb/ue/\\2\\n",
+			"url(http://testdrive.fidelity.com/",
+			"src=\"http://testdrive.fidelity.com/",
+			"src=\"http://http://testdrive.fidelity.com",
+			"",
+			"&ndash;",
+			"-",
+			"'",
+			" ",
+			"75",
+			"0",
+			"127.0.0.1 \\1\\n",
+			"127.0.0.1\\t\\t\\1\\n",
+			"127.0.0.1\\t\\1\\n",
+			"rm -rf \\1\\n",
+			"",
+			"img/",
+			"\\t<li>\\1</li>\\n",
+			"'",
+			"&reg;",
+			"FREE!",
+			"ff3636",
+			"'\\1'=>'', ",
+			"'\\1' => '',",
+			",\\n",
+			"[ChangeType] [int]",
+			"[ChangeType] [bit] NULL,",
+			"BoatComments",
+			"LienDate",
+			"LienHolder",
+			"BoatDept",
+			"BoatAcqDate",
+			"BoatValue",
+			"BoatVIN",
+			"BoatDesc",
+			"BoatManu",
+			"BoatYear",
+			"Comments",
+			"Dept",
+			"IMAcqDate",
+			"IMYear",
+			"SerialNo",
+			"Value",
+			"Descr",
+			"Comments",
+			"AcqDate",
+			"Value",
+			"Desc",
+			"BridgeComments",
+			"BridgeValue",
+			"Bldg",
+			"Site",
+			"BridgeDesc",
+			"Comments",
+			"EstCost",
+			"EndDate",
+			"StartDate",
+			"ConstCode",
+			"Zip",
+			"Sprinkler",
+			"SqFt",
+			"Bldg",
+			"Site",
+			"Bldg",
+			"Site",
+			"City",
+			"Street",
+			"Descr",
+			"Type",
+			"Comments",
+			"AppraisedDate",
+			"Contents",
+			"BldgValue",
+			"SqFt",
+			"Zip",
+			"Stories",
+			"Built",
+			"State",
+			"ConstCode",
+			"Bldg",
+			"Site",
+			"City",
+			"Street",
+			"[ChangeProcessedBy] [varchar](250) NULL,",
+			"[ChangeRequestedBy] [varchar](250) NULL,",
+			"DROP TABLE [dbo].[\\1]\\nGO\\nCREATE TABLE [dbo].[\\1](\\n",
+			"_Prev]",
+			"[\\1]\\2,\\n\\t[\\1_Change]\\2,\\n",
+			"[\\1]\\2,\\n\\t[\\1_Update]\\2,\\n",
+			"[\\1]\\2,\\n[\\1_Update]\\2,\\n",
+			"/Users/todd/Music/",
+			"$styleProfit",
+			"$styleLoss",
+			"$styleProfit",
+			"$Profit",
+			",\\n",
+			"date_format:\"%m/%d/%Y\"",
+			"$this->ExposuresDefs",
+			"Brubeck_01",
+			"1px dotted #aaaaaa;",
+			"600px",
+			"<li>\\2</li>",
+			"<li>\\1</li>",
+			"<br />",
+			"&trade;",
+			"'",
+			"",
+			"<br />",
+			"\"topnav\"",
+			"topnav"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tinted-background-image.scss",
+					"settings":
+					{
+						"buffer_size": 946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								250
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "center-vertical.scss",
+					"settings":
+					{
+						"buffer_size": 481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								481,
+								481
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "iconfont-reset.scss",
+					"settings":
+					{
+						"buffer_size": 413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								189,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "aspect-ratio.scss",
+					"settings":
+					{
+						"buffer_size": 570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								317,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "absolute-position.scss",
+					"settings":
+					{
+						"buffer_size": 541,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								210,
+								210
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ca",
+				"/Volumes/Case-Desk Beta/inc/js/casedeskadmin.js"
+			],
+			[
+				"case",
+				"/Volumes/Case-Desk Beta/inc/js/casedesk.js"
+			],
+			[
+				"tm",
+				"/Volumes/Case-Desk Beta/templates/tmpl_CaseEditor.html"
+			],
+			[
+				"dial",
+				"/Volumes/Case-Desk Beta/inc/phplib/controllers/Dialogs.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true
+}
