@@ -1,0 +1,18 @@
+/*
+=== iconfont-reset ===
+
+Psuedo-elements like :before & :after often have icon font content.
+This reset mixin will negates inherited font styles that may not mix well with icon fonts.
+
+*/
+
+@mixin iconfont-reset {
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1em;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
