@@ -1,0 +1,19 @@
+/*
+=== center-vertical ===
+
+Vertically align element to the center of its taller container. 
+Mixin assumes that the element's parent has a defined height property.
+
+Original code and article found here: [http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/]
+
+*/
+
+@mixin center-vertical {
+	position: relative;
+	top: 50%;
+	-moz-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+	
