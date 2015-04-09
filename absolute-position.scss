@@ -1,0 +1,18 @@
+/*
+=== absolute-position ===
+
+Takes in a Sass Map of the absolute position coordinates and returns the absolute position code
+
+Argument 1: Sass Map positioning coordinates (t->top/r->right/b->bottom/l->left)
+			Example: (t: 25px, l: 30px)
+*/
+
+@mixin absolute-position($pos: false){
+	position: absolute;
+	@if $pos {
+		@if ( map-get($pos, t) ) { top: map-get($pos, t); }
+		@if ( map-get($pos, r) ) { right: map-get($pos, r); }
+		@if ( map-get($pos, b) ) { bottom: map-get($pos, b); }
+		@if ( map-get($pos, l) ) { left: map-get($pos, l); }
+	}
+}
