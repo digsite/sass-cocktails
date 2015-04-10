@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+
+		<title>Sass Cocktails</title>
+
+		<link rel="stylesheet" href="css/sass-cocktails.css" />
+
+	</head>
+
+	<body>
+		<h1>Sass Cocktails Demos</h1>
+
+		<div id="mixin-test">
+
+			<section class="absolute">
+				<header>
+					<h2>Absolute Positioning</h2>
+				</header>
+
+				<article>
+					<code>
+						.example-1 { @include absolute-position( (b: 5px, r: 20px) ); }<br />
+						.example-2 { @include absolute-position( (t: 15px, l: 10px) ); }
+					</code>
+					<div class="prel">
+						<div class="example-1">Example 1</div>
+						<div class="example-2">Example 2</div>
+					</div>
+				</article>
+			</section>
+
+			<hr />
+
+			<section class="bg-tinting">
+				<header>
+					<h2>Tinted Background Images</h2>
+				</header>
+				
+				<article>
+					<h3>Default</h3>
+					<code>
+						@include tinted-background-image( url(//path/to/img/or/data/string) );
+					</code>
+					<div class="bg-tint default"></div>
+				</article>
+
+				<article>
+					<h3>Defined Tinting Options</h3>
+					<code>
+						@include tinted-background-image( url(//path/to/img/or/data/string), (color: red, opacity: 0.25) );
+					</code>
+					<div class="bg-tint red"></div>
+				</article>
+			</section>
+
+			<hr />
+
+			<section class="vert-align">
+				<header>
+					<h2>Centered Vertical Alignment</h2>
+				</header>
+
+				<article>
+					<code>
+						.some-text p {  @include center-vertical;  }
+					</code>
+					<div class="demo some-text">
+						<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. 
+						Sed eleifend nonummy diam. Praesent mauris ante, elementum et, bibendum at, posuere sit amet, nibh. Duis tincidunt lectus quis dui viverra vestibulum. 
+						Suspendisse vulputate aliquam dui. Nulla elementum dui ut augue.</p>
+					</div>
+				</article>
+			</section>
+
+			<hr />
+
+			<section class="aspect-ratios">
+				<header>
+					<h2>Ascpect Ratios</h2>
+				</header>
+
+				<article>
+					<code>
+						.ar1 {  @include aspect-ratio(1, 1);  }<br />
+						.ar2 {  @include aspect-ratio(2, 1);  }<br />
+						.ar3 {  @include aspect-ratio(4, 3);  }<br />
+						.ar4 {  @include aspect-ratio(16, 9);  }<br />
+						.ar5 {  @include aspect-ratio(2.39, 1);  }
+					</code>
+					<div class="visualize">
+
+						<div class="fl">
+							<div class="ar ar1">
+							  <div class="content">
+							    .ar1<br />Aspect Ratio 1:1
+							  </div>
+							</div>
+
+							<div class="ar ar2">
+							  <div class="content">
+							    .ar2<br />Aspect Ratio 2:1
+							  </div>
+							</div>
+						</div>
+
+						<div class="fr">
+							<div class="ar ar3">
+							  <div class="content">
+							    .ar3<br />Aspect Ratio 4:3
+							  </div>
+							</div>
+
+							<div class="ar ar4">
+							  <div class="content">
+							    .ar4<br />Aspect Ratio 16:9
+							  </div>
+							</div>
+
+							<div class="ar ar5">
+							  <div class="content">
+							    .ar5<br />Aspect Ratio 2.39:1
+							  </div>
+							</div>
+						</div>
+						<div class="cb"></div>
+					</div>
+				</article>
+			</section>
+
+			<hr />
+
+		</div>
+	</body>
+</html>

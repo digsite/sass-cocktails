@@ -1,0 +1,39 @@
+/*
+=== tinted-background-image ===
+
+Creates CSS for a tinted background image. No $img provided, no CSS returned.
+Based off solution created by Chris Coyier [@chriscoyier] on CSS-Tricks.com [https://css-tricks.com/tinted-images-multiple-backgrounds/]
+
+Argument 1: CSS Url
+			Example: url(/path/to/img/here)
+Argument 2: Sass Map of tinting options (color and color's opacity)
+			Example: (color: red, opacity: 0.5)
+			Default: (color: black, opacity: 0.7)
+*/
+
+//===== STANDALONE =====
+@mixin tinted-background-image( $img: false, $tintOptions: (color: black, opacity: 0.7) ){
+	@if $img {
+		//-- create RGBA color based of passed option map
+		$colorTint: rgba(map-get($tintOptions, color), map-get($tintOptions, opacity));
+		background: map-get($tintOptions, color);		//-- fallback for no RGBA support
+		background: $colorTint;							//-- fallback for no multiple background image support
+		background: 
+		    linear-gradient( $colorTint, $colorTint),
+		    url($img);
+	}
+}
+/*	
+
+//===== COMPASS VERSION =====
+@mixin tinted-background-image( $img: false, $tintOptions: (color: black, opacity: 0.7) ){
+	@if $img {
+		//-- create RGBA color based of passed option map
+		$colorTint: rgba(map-get($tintOptions, color), map-get($tintOptions, opacity));
+		background: map-get($tintOptions, color);		//-- fallback for no RGBA support
+		background: $colorTint;							//-- fallback for no multiple background image support
+		@include background( linear-gradient( $colorTint, $colorTint), url($img) );
+	}
+}
+
+*/
