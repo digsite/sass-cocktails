@@ -12,9 +12,8 @@
 	</head>
 
 	<body>
-		<h1>Sass Cocktails Demos</h1>
-
-		<div id="mixin-test">
+		<main>
+			<h1>Sass Cocktails Demo</h1>
 
 			<section class="absolute">
 				<header>
@@ -26,7 +25,7 @@
 						.example-1 { @include absolute-position( (b: 5px, r: 20px) ); }<br />
 						.example-2 { @include absolute-position( (t: 15px, l: 10px) ); }
 					</code>
-					<div class="prel">
+					<div class="container">
 						<div class="example-1">Example 1</div>
 						<div class="example-2">Example 2</div>
 					</div>
@@ -93,7 +92,7 @@
 					</code>
 					<div class="visualize">
 
-						<div class="fl">
+						<div class="left column">
 							<div class="ar ar1">
 							  <div class="content">
 							    .ar1<br />Aspect Ratio 1:1
@@ -107,7 +106,7 @@
 							</div>
 						</div>
 
-						<div class="fr">
+						<div class="right column">
 							<div class="ar ar3">
 							  <div class="content">
 							    .ar3<br />Aspect Ratio 4:3
@@ -131,8 +130,6 @@
 				</article>
 			</section>
 
-			<hr />
-
-		</div>
+		</main>
 	</body>
 </html>
