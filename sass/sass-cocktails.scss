@@ -1,16 +1,14 @@
 @import "_absolute-position";
 @import "_aspect-ratio";
-@import "_center-vertical";
+@import "_centerer";
 @import "_iconfont-reset";
 @import "_tinted-background-image";
 
 
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic);
-@import url(http://fonts.googleapis.com/css?family=Inconsolata);
-@import url(http://fonts.googleapis.com/css?family=Lobster);
+@import url(http://fonts.googleapis.com/css?family=Lobster|Inconsolata);
 
 body {
-	font: 16px 'Roboto', Helvetica, sans-serif;
+	font: 16px "Helvetica Neue", Helvetica, Arial, sans-serif;
 	margin: 0;
 	padding: 2vh 2vw;
 }
@@ -26,27 +24,32 @@ hr {
 }
 
 code {
-	padding: 1em 2em;
-	margin: 4em 0 1em;
-	display: block;
-	font-size: 0.9em;
-	line-height: 1.25em;
 	font-family: "Inconsolata", "Courier New", Courier, monospace;
 	background-color: #333;
 	color: white;
-	border-radius: 0 0.5em 0.5em 0.5em;
+	padding: 0 0.5em;
+	display: inline-block;
 
-	position: relative;
-	&:before {
-		content: "<code>";
-		font-weight: bold;
-		font-size: 1.25em;
-		position: absolute;
-		top: -2em;
-		left: 0;
-		background-color: #333;
-		padding: 0.5em 2em; 
-		border-radius: 1em 1em 0 0;
+	&.block{
+		padding: 1em 2em;
+		margin: 4em 0 1em;
+		font-size: 0.9em;
+		line-height: 1.25em;
+		border-radius: 0 0.5em 0.5em 0.5em;
+
+		display: block;
+		position: relative;
+		&:before {
+			content: "<code>";
+			font-weight: bold;
+			font-size: 1.25em;
+			position: absolute;
+			top: -2em;
+			left: 0;
+			background-color: #333;
+			padding: 0.5em 2em; 
+			border-radius: 1em 1em 0 0;
+		}
 	}
 }
 
@@ -125,17 +128,29 @@ main {
 	}
 }
 
-.vert-align {
-	.demo {
-		height: 30vh;
+.centerer {
+	.parent {
+		position: relative;
+		margin: 1em auto;
+		width: 50vw;
+		height: 200px;
 		background-color: darkblue;
-		color: white;
-		padding: 2em;
-		border-radius: 1em;
-	}
 
-	p {
-		@include center-vertical;
+		.child {
+			display: block;
+			padding: 2em;
+			background-color: white;
+
+			&.both {
+				@include centerer();
+			}
+			&.horizontal {
+				@include centerer(true, false);
+			}
+			&.vertical {
+				@include centerer(false, true);
+			}
+		}
 	}
 }
 

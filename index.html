@@ -21,13 +21,44 @@
 				</header>
 
 				<article>
-					<code>
+					<code class="block">
 						.example-1 { @include absolute-position( (b: 5px, r: 20px) ); }<br />
 						.example-2 { @include absolute-position( (t: 15px, l: 10px) ); }
 					</code>
 					<div class="container">
 						<div class="example-1">Example 1</div>
 						<div class="example-2">Example 2</div>
+					</div>
+				</article>
+			</section>
+
+			<hr />
+
+			<section class="centerer">
+				<header>
+					<h2>Vertical/Horizontal Centering</h2>
+				</header>
+
+				<article>
+					<p>Horizontally/vertically align element to the center of its wider/taller container. Mixin assumes that both the parent has a defined width & height property and has <code>position: relative;</code>.</p>
+
+					<p>Original code and article found on <a href="https://css-tricks.com/snippets/sass/centering-mixin/" target="_blank">CSS-Tricks</a></p>
+
+					<code class="block">
+						.both {  @include centerer();  }<br />
+						.horizontal {  @include centerer(true, false);  }<br />
+						.vertical {  @include centerer(false, true);  }
+					</code>
+					<div class="parent">
+						<div class="child both">I'm centered on both axis!</div>
+					</div>
+
+					<div class="parent">
+						<div class="child horizontal">I'm centered horizontally!</div>
+					</div>
+
+					<div class="parent">
+						<div class="child vertical">I'm centered vertically!</div>
 					</div>
 				</article>
 			</section>
@@ -41,7 +72,7 @@
 				
 				<article>
 					<h3>Default</h3>
-					<code>
+					<code class="block">
 						@include tinted-background-image( url(//path/to/img/or/data/string) );
 					</code>
 					<div class="bg-tint default"></div>
@@ -49,29 +80,10 @@
 
 				<article>
 					<h3>Defined Tinting Options</h3>
-					<code>
+					<code class="block">
 						@include tinted-background-image( url(//path/to/img/or/data/string), (color: red, opacity: 0.25) );
 					</code>
 					<div class="bg-tint red"></div>
-				</article>
-			</section>
-
-			<hr />
-
-			<section class="vert-align">
-				<header>
-					<h2>Centered Vertical Alignment</h2>
-				</header>
-
-				<article>
-					<code>
-						.some-text p {  @include center-vertical;  }
-					</code>
-					<div class="demo some-text">
-						<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam cursus. Morbi ut mi. Nullam enim leo, egestas id, condimentum at, laoreet mattis, massa. 
-						Sed eleifend nonummy diam. Praesent mauris ante, elementum et, bibendum at, posuere sit amet, nibh. Duis tincidunt lectus quis dui viverra vestibulum. 
-						Suspendisse vulputate aliquam dui. Nulla elementum dui ut augue.</p>
-					</div>
 				</article>
 			</section>
 
@@ -83,7 +95,7 @@
 				</header>
 
 				<article>
-					<code>
+					<code class="block">
 						.ar1 {  @include aspect-ratio(1, 1);  }<br />
 						.ar2 {  @include aspect-ratio(2, 1);  }<br />
 						.ar3 {  @include aspect-ratio(4, 3);  }<br />
