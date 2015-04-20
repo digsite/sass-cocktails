@@ -23,3 +23,22 @@ Original code and article found here: [https://css-tricks.com/snippets/sass/cent
 		transform: translate(0, -50%);
 	}
 }
+/*	
+
+//===== COMPASS VERSION =====
+@mixin centerer($horizontal: true, $vertical: true) {
+	position: absolute;
+	@if ($horizontal and $vertical) {
+		top: 50%;
+		left: 50%;
+		@include translate(-50%, -50%);
+	} @else if ($horizontal) {
+		left: 50%;
+		@include translate(-50%, 0);
+	} @else if ($vertical) {
+		top: 50%;
+		@include translate(0, -50%);
+	}
+}
+
+*/
